@@ -1,4 +1,0 @@
-meerkat-chomp
-=============
-
-test
